@@ -3,6 +3,7 @@
 
 |  対象  |  対応  |
 | ---- | ---- |
+| 特別定額給付金（仮称） | **住民基本台帳に記録されている全員に10万円、申請書は世帯主宛てに郵送、期日は市区町村が決める**<br>・[総務省 特別定額給付金](https://www.soumu.go.jp/menu_seisaku/gyoumukanri_sonota/covid-19/kyufukin.html)<br>・[産経新聞 【Ｑ＆Ａ】１０万円いつ、どうすればもらえる？　届いた申請書を返送](https://headlines.yahoo.co.jp/hl?a=20200420-00000564-san-bus_all)<br>・申請方法は二つ：（1）口座番号と本人確認書類の写しを郵送 （2）マイナンバーカードを使ったオンライン申請<br>・給付対象者＝給付金10万円を受け取れる人：住民基本台帳に4/27時点で記録されている全員<br>・受給権者＝申請書が郵送される先：世帯主<br>・DVなどで同居していない家族に届かない可能性も（そのあたりは今後説明か） |
 | 窓口業務等 | **市民生活直結の窓口業務は通常通り、土曜窓口は5/2まで休止、一部無料相談は当分の間休止**<br>・[市民課業務の休止等に関する情報（4/17（金）午前10時現在）](https://www.city.kodaira.tokyo.jp/kurashi/080/080083.html)<br>・[市役所窓口業務の縮小情報について（令和2年4月16日）](https://www.city.kodaira.tokyo.jp/kurashi/081/081242.html)<br>・[市役所などで行う相談【一部休止】](https://www.city.kodaira.tokyo.jp/kurashi/033/033219.html)<br>・[障害者支援課窓口へのご来庁をできるだけお控えください](https://www.city.kodaira.tokyo.jp/kurashi/081/081245.html) <br>・[12時～13時は、できる限り来庁をお控えください](https://www.city.kodaira.tokyo.jp/kurashi/081/081242.html) |
 |  ごみ・リサイクル業務  |  **ごみ収集はカレンダー通り、粗大ごみは受付縮小、ごみ抑制を要請**<br>・[コロナウイルス対策による資源とごみの収集時間の遅れについて](https://www.city.kodaira.tokyo.jp/kurashi/081/081104.html)<br>・[粗大ごみの≪電話・窓口≫申込み　【受付の縮小】](https://www.city.kodaira.tokyo.jp/kurashi/000/000314.html)<br>・[コロナウイルス感染拡大に伴う資源とごみの排出の抑制について](https://www.city.kodaira.tokyo.jp/kurashi/081/081198.html)  |
 |  屋外施設を含む公共施設  | **5/6（水）まで閉鎖 / 閉館**<br>・[市内公共施設などの休業情報](https://www.city.kodaira.tokyo.jp/kurashi/079/079890.html) |
