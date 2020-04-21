@@ -86,13 +86,13 @@
 
 ### 1.2.1. 市内の感染者数  
 プライバシー保護の観点から、市区町村までの公表、それ以上の詳細情報公表はない。
-- [西友東大和店 従業員1名](https://www.seiyu.co.jp/serious_info/pdf/200417.pdf#search=%27%E8%A5%BF%E5%8F%8B+%E6%9D%B1%E5%A4%A7%E5%92%8C%27)
 - [東京都福祉保健局「最新の報道発表」](https://www.fukushihoken.metro.tokyo.lg.jp/hodo/saishin/index.html)
 - [東京都防災「東京都新型コロナウイルス感染症対策本部報」](https://www.bousai.metro.tokyo.lg.jp/taisaku/saigai/1007261/index.html)
-- [都内の最新感染動向（東京都）・小平市8名（4/16 20時）](https://stopcovid19.metro.tokyo.lg.jp/)
+- [都内の最新感染動向（東京都）・陽性患者数累計：小平市12名（4/20 19時45分）](https://stopcovid19.metro.tokyo.lg.jp/)
 
 ### 1.2.2. 市内での発生情報 
-発生情報としては3名。
+発生情報としては4名。
+- [西友東大和店 従業員1名](https://www.seiyu.co.jp/serious_info/pdf/200417.pdf#search=%27%E8%A5%BF%E5%8F%8B+%E6%9D%B1%E5%A4%A7%E5%92%8C%27)
 - [公立昭和病院看護師1名](http://www.kouritu-showa.jp/news/detail.php?id=4045)
 - [国立精神・神経医療研究センター職員1名](https://www.ncnp.go.jp/hospital/)
 - [鈴木二郵便局窓口担当1名](https://www.japanpost.jp/information/2020/20200408151401.html)
