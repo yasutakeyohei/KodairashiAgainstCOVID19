@@ -88,7 +88,8 @@
 プライバシー保護の観点から、市区町村までの公表、それ以上の詳細情報公表はない。
 - [東京都福祉保健局「最新の報道発表」](https://www.fukushihoken.metro.tokyo.lg.jp/hodo/saishin/index.html)
 - [東京都防災「東京都新型コロナウイルス感染症対策本部報」](https://www.bousai.metro.tokyo.lg.jp/taisaku/saigai/1007261/index.html)
-- [都内の最新感染動向（東京都）・陽性患者数累計：小平市12名（4/20 19時45分）](https://stopcovid19.metro.tokyo.lg.jp/)
+- [都内の最新感染動向（東京都）](https://stopcovid19.metro.tokyo.lg.jp/)
+    - 小平市の陽性患者数累計：12名（4/20 19時45分）
 
 ### 1.2.2. 市内での発生情報 
 発生情報としては4名。
