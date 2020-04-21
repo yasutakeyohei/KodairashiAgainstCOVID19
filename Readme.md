@@ -1,9 +1,9 @@
 # 小平市の新型コロナウイルス感染症 対応状況まとめ
-令和2年4月21（金）01:00 時点
+令和2年4月22（金）01:00 時点
 
 |  対象  |  対応  |
 | ---- | ---- |
-| 特別定額給付金（仮称） | **住民基本台帳に記録されている全員に10万円、申請書は世帯主宛てに郵送、開始日は市区町村が決める**<br>・[総務省 特別定額給付金](https://www.soumu.go.jp/menu_seisaku/gyoumukanri_sonota/covid-19/kyufukin.html)<br>・[産経新聞 【Ｑ＆Ａ】１０万円いつ、どうすればもらえる？　届いた申請書を返送](https://headlines.yahoo.co.jp/hl?a=20200420-00000564-san-bus_all)<br>・開始日は市区町村が決定（未定）、申請期限は郵送申請の開始日から3か月以内<br>・申請方法は二つ：（1）口座番号と本人確認書類の写しを郵送 （2）マイナンバーカードを使ったオンライン申請<br>・給付対象者＝給付金10万円を受け取れる人：住民基本台帳に4/27時点で記録されている全員<br>・受給権者＝申請書が郵送される先：世帯主<br>・DVなどで同居していない家族に届かない可能性も（そのあたりは今後説明か） |
+| 特別定額給付金（仮称） | **住民基本台帳に記録されている全員に10万円、申請書は世帯主宛てに郵送、開始日は市区町村が決める（未定）**<br>・[特別定額給付金(仮称)について(令和2年4月20日)](https://www.city.kodaira.tokyo.jp/kurashi/081/081191.html)　→　[総務省 特別定額給付金](https://www.soumu.go.jp/menu_seisaku/gyoumukanri_sonota/covid-19/kyufukin.html)<br>・[産経新聞 【Ｑ＆Ａ】１０万円いつ、どうすればもらえる？　届いた申請書を返送](https://headlines.yahoo.co.jp/hl?a=20200420-00000564-san-bus_all)<br>・開始日は市区町村が決定（未定）、申請期限は郵送申請の開始日から3か月以内<br>・申請方法は二つ：（1）口座番号と本人確認書類の写しを郵送 （2）マイナンバーカードを使ったオンライン申請<br>・給付対象者＝給付金10万円を受け取れる人：住民基本台帳に4/27時点で記録されている全員<br>・受給権者＝申請書が郵送される先：世帯主<br>・DVなどで同居していない家族に届かない可能性も（そのあたりは今後説明か） |
 | 窓口業務等 | **市民生活直結の窓口業務は通常通り、土曜窓口は5/2まで休止、一部無料相談は当分の間休止**<br>・[市民課業務の休止等に関する情報（4/17（金）午前10時現在）](https://www.city.kodaira.tokyo.jp/kurashi/080/080083.html)<br>・[市役所窓口業務の縮小情報について（令和2年4月16日）](https://www.city.kodaira.tokyo.jp/kurashi/081/081242.html)<br>・[市役所などで行う相談【一部休止】](https://www.city.kodaira.tokyo.jp/kurashi/033/033219.html)<br>・[障害者支援課窓口へのご来庁をできるだけお控えください](https://www.city.kodaira.tokyo.jp/kurashi/081/081245.html) <br>・[12時～13時は、できる限り来庁をお控えください](https://www.city.kodaira.tokyo.jp/kurashi/081/081242.html) |
 |  ごみ・リサイクル業務  |  **ごみ収集はカレンダー通り、粗大ごみは受付縮小、ごみ抑制を要請**<br>・[コロナウイルス対策による資源とごみの収集時間の遅れについて](https://www.city.kodaira.tokyo.jp/kurashi/081/081104.html)<br>・[粗大ごみの≪電話・窓口≫申込み　【受付の縮小】](https://www.city.kodaira.tokyo.jp/kurashi/000/000314.html)<br>・[コロナウイルス感染拡大に伴う資源とごみの排出の抑制について](https://www.city.kodaira.tokyo.jp/kurashi/081/081198.html)  |
 |  屋外施設を含む公共施設  | **5/6（水）まで閉鎖 / 閉館**<br>・[市内公共施設などの休業情報](https://www.city.kodaira.tokyo.jp/kurashi/079/079890.html) |
@@ -60,6 +60,7 @@
         - [1.13.1. 関連機関のホームページ](#1131-%E9%96%A2%E9%80%A3%E6%A9%9F%E9%96%A2%E3%81%AE%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8)
         - [1.13.2. よくある質問](#1132-%E3%82%88%E3%81%8F%E3%81%82%E3%82%8B%E8%B3%AA%E5%95%8F)
 - [2. 新型コロナウイルス感染症を口実にした詐欺に注意しましょう](#2-%E6%96%B0%E5%9E%8B%E3%82%B3%E3%83%AD%E3%83%8A%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E6%84%9F%E6%9F%93%E7%97%87%E3%82%92%E5%8F%A3%E5%AE%9F%E3%81%AB%E3%81%97%E3%81%9F%E8%A9%90%E6%AC%BA%E3%81%AB%E6%B3%A8%E6%84%8F%E3%81%97%E3%81%BE%E3%81%97%E3%82%87%E3%81%86)
+- [3. 特別定額給付金（仮称）に関する詐欺に注意しましょう（令和2年4月21日）](#3-%E7%89%B9%E5%88%A5%E5%AE%9A%E9%A1%8D%E7%B5%A6%E4%BB%98%E9%87%91%E4%BB%AE%E7%A7%B0%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E8%A9%90%E6%AC%BA%E3%81%AB%E6%B3%A8%E6%84%8F%E3%81%97%E3%81%BE%E3%81%97%E3%82%87%E3%81%86%E4%BB%A4%E5%92%8C2%E5%B9%B44%E6%9C%8821%E6%97%A5)
 
 <!-- /TOC -->
 
@@ -350,7 +351,6 @@
 - [小平市ファミリー・サポート・センター事業の利用についてのお願い](https://www.city.kodaira.tokyo.jp/kurashi/080/080987.html)
 - [一時預かり事業【5月6日（水曜）まで中止】](https://www.city.kodaira.tokyo.jp/kurashi/047/047850.html)
 - [保育所において子ども等に新型コロナウイルス感染症が発生した場合の対応について](https://www.city.kodaira.tokyo.jp/kurashi/080/080089.html)
-- [保育所において子ども等に新型コロナウイルス感染症が発生した場合の対応について](https://www.city.kodaira.tokyo.jp/kurashi/080/080480.html)
 - [新型コロナウイルス感染症に対する保育施設等の対応FAQ（令和2年4月8日現在）](https://www.city.kodaira.tokyo.jp/kurashi/080/080480.html)
 - [【4月8日更新】新型コロナウイルス感染症に伴う復職時期等について(保育所入所関連)](https://www.city.kodaira.tokyo.jp/kurashi/080/080691.html)
 
@@ -383,7 +383,9 @@
 - [小平市における新型コロナウイルス感染症に係る介護事業所の臨時的な取扱いについて](https://www.city.kodaira.tokyo.jp/kurashi/081/081004.html)
 
 ## 1.12. その他の情報
-- [生活支援臨時給付金(仮称)について(令和2年4月14日)](https://www.city.kodaira.tokyo.jp/kurashi/081/081191.html)
+- [特別定額給付金(仮称)について(令和2年4月20日)](https://www.city.kodaira.tokyo.jp/kurashi/081/081191.html)
+    - [総務省 特別定額給付金(仮称)](https://www.soumu.go.jp/menu_seisaku/gyoumukanri_sonota/covid-19/kyufukin.html)
+    - 特別定額給付金コールセンター：03-5638-5855（午前9時から午後6時30分（土日祝日を除く））
 - [内閣官房 新型コロナウイルス感染症対策](https://www.cas.go.jp/jp/influenza/novel_coronavirus.html)
 - [財務省 新型コロナウイルス感染症緊急経済対策における税制上の措置（案）](https://www.mof.go.jp/tax_policy/keizaitaisaku.html)
 - [国税庁 新型コロナウイルス感染症の発生に伴い納税が困難な方に対する猶予制度のご案内](https://www.nta.go.jp/taxes/shiraberu/shinkoku/kansensho/pdf/0020003-044_02.pdf)
@@ -401,10 +403,13 @@
 ### 1.13.2. よくある質問
 - [厚生労働省 新型コロナウイルスに関するよくある質問（一般の方向け）](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/dengue_fever_qa_00001.html)
 - [東京都福祉保健局 新型コロナウイルス感染症FAQ（よくある質問）](https://www.metro.tokyo.lg.jp/tosei/tosei/news/covid-19_faq.html)
+- [厚生労働省 動物を飼育する方向けQ＆A](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/doubutsu_qa__00001.html)
 
 # 2. [新型コロナウイルス感染症を口実にした詐欺に注意しましょう](https://www.city.kodaira.tokyo.jp/important/081/081043.html)
 「現金給付」や「助成金」などを口実に、個人情報を聞き出そうとしたり、ATMで手続きするよう誘導する詐欺の電話やメール等が懸念されます。
 - 「コロナ対策で助成金が出ています。今日の5時までに口座の登録をしてください。」
 - 「火災保険に入っていると新型コロナウイルスの見舞金が出ます。」
 - 「コロナの検査キットを送ったのですが届いていませんか。」
-    
+
+# 3. [特別定額給付金（仮称）に関する詐欺に注意しましょう（令和2年4月21日）](https://www.city.kodaira.tokyo.jp/important/081/081380.html)
+ - それ、給付金を装った詐欺かもしれません！
