@@ -1,22 +1,22 @@
 # 小平市の新型コロナウイルス感染症 対応状況まとめ
-令和2年4月25（土）01:00 時点
+令和2年4月27（火）01:00 時点
 
 |  対象  |  対応  |
 | ---- | ---- |
 | 特別定額給付金（仮称） | **住民基本台帳に記録されている全員に10万円、申請書は世帯主宛てに郵送、開始日は市区町村が決める（未定）**<br>・[特別定額給付金(仮称)について(令和2年4月20日)](https://www.city.kodaira.tokyo.jp/kurashi/081/081191.html)　→　[総務省 特別定額給付金](https://www.soumu.go.jp/menu_seisaku/gyoumukanri_sonota/covid-19/kyufukin.html)<br>・[配偶者からの暴力を理由に避難している方の申出手続きについて](https://www.city.kodaira.tokyo.jp/kurashi/files/81491/081491/att_0000001.pdf)<br>・[産経新聞 【Ｑ＆Ａ】１０万円いつ、どうすればもらえる？　届いた申請書を返送](https://headlines.yahoo.co.jp/hl?a=20200420-00000564-san-bus_all)<br>・開始日は市区町村が決定（未定）、申請期限は郵送申請の開始日から3か月以内<br>・申請方法は二つ：（1）口座番号と本人確認書類の写しを郵送 （2）マイナンバーカードを使ったオンライン申請<br>・給付対象者＝給付金10万円の支給にカウントされる人：住民基本台帳に4/27時点で記録されている全員<br>・受給権者＝申請書が郵送される先：世帯主 |
-| 窓口業務等 | **市民生活直結の窓口業務は通常通り、土曜窓口は5/2まで休止、一部無料相談は当分の間休止**<br>・[市民課業務の休止等に関する情報（4/17（金）午前10時現在）](https://www.city.kodaira.tokyo.jp/kurashi/080/080083.html)<br>・[市役所窓口業務の縮小情報について（令和2年4月16日）](https://www.city.kodaira.tokyo.jp/kurashi/081/081242.html)<br>・[市役所などで行う相談【一部休止】](https://www.city.kodaira.tokyo.jp/kurashi/033/033219.html)<br>・[障害者支援課窓口へのご来庁をできるだけお控えください](https://www.city.kodaira.tokyo.jp/kurashi/081/081245.html) <br>・[12時～13時は、できる限り来庁をお控えください](https://www.city.kodaira.tokyo.jp/kurashi/081/081242.html) |
+| 窓口業務等 | **市民生活直結の窓口業務は通常通り、土曜窓口は5/30まで休止、一部無料相談は当分の間休止**<br>・[新型コロナウイルス感染症への市の対応（令和2年4月27日現在）](https://www.city.kodaira.tokyo.jp/kurashi/079/079987.html)<br>・[市民課業務の休止等に関する情報（4/17（金）午前10時現在）](https://www.city.kodaira.tokyo.jp/kurashi/080/080083.html)<br>・[市役所窓口業務の縮小情報について（令和2年4月16日）](https://www.city.kodaira.tokyo.jp/kurashi/081/081242.html)<br>・[市役所などで行う相談【一部休止】](https://www.city.kodaira.tokyo.jp/kurashi/033/033219.html)<br>・[障害者支援課窓口へのご来庁をできるだけお控えください](https://www.city.kodaira.tokyo.jp/kurashi/081/081245.html) <br>・[12時～13時は、できる限り来庁をお控えください](https://www.city.kodaira.tokyo.jp/kurashi/081/081242.html) |
 |  ごみ・リサイクル業務  |  **ごみ収集はカレンダー通り、粗大ごみは受付縮小、ごみ抑制を要請**<br>・[コロナウイルス対策による資源とごみの収集時間の遅れについて](https://www.city.kodaira.tokyo.jp/kurashi/081/081104.html)<br>・[粗大ごみの≪電話・窓口≫申込み　【受付の縮小】](https://www.city.kodaira.tokyo.jp/kurashi/000/000314.html)<br>・[コロナウイルス感染拡大に伴う資源とごみの排出の抑制について](https://www.city.kodaira.tokyo.jp/kurashi/081/081198.html)  |
-|  屋外施設を含む公共施設  | **5/6（水）まで閉鎖 / 閉館**<br>・[市内公共施設などの休業情報](https://www.city.kodaira.tokyo.jp/kurashi/079/079890.html) |
-|  市主催（共催）イベント  |  **5/6（水）まで中止 / 延期**<br>・[イベント・行事・審議会の延期・中止などの情報](https://www.city.kodaira.tokyo.jp/kurashi/079/079884.html)  |
+|  屋外施設を含む公共施設  | **5/31（日）まで閉鎖 / 閉館**<br>・[市内公共施設などの休業情報](https://www.city.kodaira.tokyo.jp/kurashi/079/079890.html) |
+|  市主催（共催）イベント  |  **5/31（日）まで中止 / 延期**<br>・[イベント・行事・審議会の延期・中止などの情報](https://www.city.kodaira.tokyo.jp/kurashi/079/079884.html)  |
 |  保育園等  |  **5/6（水）まで保育の提供縮小、利用自粛要請、保育料減免**<br>・[保育の提供の縮小について（利用自粛の要請）](https://www.city.kodaira.tokyo.jp/kurashi/081/081017.html)<br>・[保育園利用自粛要請に伴う保育料の減免措置について](https://www.city.kodaira.tokyo.jp/kurashi/080/080970.html)  |
 |  学童クラブ  |  **5/6（水）まで保育の提供縮小、利用自粛要請、学童クラブ費減免**<br>・[学童クラブ事業の縮小について（利用自粛の要請）](https://www.city.kodaira.tokyo.jp/kurashi/080/080052.html)<br>・[学童クラブ利用自粛に伴う学童クラブ費の減免について](https://www.city.kodaira.tokyo.jp/kurashi/081/081057.html)  |
-|  小平市立小中学校  |  **5/6（水）まで臨時休業、週1回程度の登校予定も中止し、登校日なし**<br>・[市立小学校、中学校の臨時休業について](https://www.city.kodaira.tokyo.jp/kurashi/080/080054.html)  |
+|  小平市立小中学校  |  **5/8（金）まで休み、週1回程度の登校予定も中止し、登校日なし**<br>・[新型コロナウイルス感染症への市の対応（令和2年4月27日現在）](https://www.city.kodaira.tokyo.jp/kurashi/079/079987.html)<br>・[市立小学校、中学校の臨時休業について](https://www.city.kodaira.tokyo.jp/kurashi/080/080054.html)<br>・5/6（水）まで臨時休業、5/7（木）と5/8（金）は「登校させない日」として対応 |
 |  支払い困難・生活支援  | **市税は徴収猶予 / 換価猶予あり、年金は免除 / 猶予あり、下水道は最大4か月支払猶予あり**<br>・[新型コロナウイルス感染症の影響で市税の納付が困難な方へ](https://www.city.kodaira.tokyo.jp/kurashi/080/080568.html)<br>・[新型コロナウイルス感染症関係で国民年金保険料納付が困難な方へ](https://www.city.kodaira.tokyo.jp/kurashi/080/080665.html)<br>・[新型コロナウィルス感染症に伴う下水道使用料支払い猶予について](https://www.city.kodaira.tokyo.jp/kurashi/080/080984.html)<br>■ 以下3件はコロナウイルス感染症対策のページに記載なし<br>・[生活にお困りの方へ](https://www.city.kodaira.tokyo.jp/kurashi/020/020074.html)<br>・[離職で賃貸住宅の家賃の支払いがお困りの方](https://www.city.kodaira.tokyo.jp/kurashi/032/032276.html)<br>・[生活に困窮している方の相談窓口　こだいら生活相談支援センター](https://www.city.kodaira.tokyo.jp/kurashi/046/046174.html)<br>■ 以下は小平市社協からのリンク切れ（！）<br>・[緊急小口資金貸付のご案内パンフレット](https://www.tcsw.tvac.or.jp/activity/documents/201705kinkyuukoguchi.pdf)<br>■ 以下は主に国から<br>・[生活支援臨時給付金(仮称)について(令和2年4月14日)](https://www.city.kodaira.tokyo.jp/kurashi/081/081191.html)<br>・[（地方税）徴収猶予の特例制度（案）リーフレット](https://www.city.kodaira.tokyo.jp/kurashi/files/80568/080568/att_0000003.pdf) |
 |  事業者の資金繰り支援・相談・情報  | **小平市としては緊急運転資金制度（通常運用？）での対応か**<br>・[小平市　小口事業資金・小口零細企業資金融資あっせん制度（緊急運転資金）](https://www.city.kodaira.tokyo.jp/kurashi/080/080545.html)<br>・[小平市における新型コロナウイルス感染症に係る介護事業所の臨時的な取扱いについて](https://www.city.kodaira.tokyo.jp/kurashi/081/081004.html)<br>■ 以下は主に国および都から<br>・[緊急事態宣言等を踏まえた障害福祉サービス等事業所における対応](https://www.city.kodaira.tokyo.jp/kurashi/081/081240.html)<br>・[経済産業省　新型コロナウイルス感染症で影響を受ける事業者の皆様へ（支援パンフレット）](https://www.city.kodaira.tokyo.jp/kurashi/080/080472.html)<br>・[東京都産業労働局　新型コロナウイルス感染症に対応した企業の皆様、はたらく皆様への支援策](https://www.city.kodaira.tokyo.jp/kurashi/080/080509.html) <br>・[市が発注した公共工事等　新型コロナウイルス感染症の罹患及び感染拡大防止に向けた対応](https://www.city.kodaira.tokyo.jp/kurashi/080/080141.html)<br>・[新型コロナウイルス感染症への対応について（介護事業者向け）令和2年4月](https://www.city.kodaira.tokyo.jp/kurashi/080/080994.html)<br>・[東京都緊急事態措置相談センター](https://www.city.kodaira.tokyo.jp/kurashi/079/079554.html#tokuso)|
 |  申請・申告  | **法人市民税申告・納付、住民税申告、国保諸手続き、年金受給手続き、在留外国人の更新許可申請等の延長対応**<br>・[新型コロナウイルス感染症の影響により、法人市民税の期限内申告等に困難が生じた場合の取扱いについて](https://www.city.kodaira.tokyo.jp/kurashi/081/081192.html)<br>・[令和2年度市民税・都民税（住民税）の申告期限の延長について](https://www.city.kodaira.tokyo.jp/kurashi/080/080189.html)<br>・[新型コロナウイルス感染症の拡大防止のための三輪以上の軽自動車にかかる軽自動車税（種別割）の課税上の取扱いについて](https://www.city.kodaira.tokyo.jp/kurashi/080/080658.html)<br>・[新型コロナウィルス感染症で国民健康保険の諸手続きが困難な場合](https://www.city.kodaira.tokyo.jp/kurashi/080/080661.html)<br>・[新型コロナウイルス感染症関係で年金受給書類の提出が困難な方へ](https://www.city.kodaira.tokyo.jp/kurashi/080/080666.html)<br>・[外国人住民の方の手続き](https://www.city.kodaira.tokyo.jp/kurashi/026/026272.html) |
 |  その他・国の対応  | **令和3年1/31まで納期限の国税（所得税、法⼈税、消費税等）の納税猶予、注意喚起等**<br>・[内閣官房より新型コロナウイルス感染症対策](https://www.cas.go.jp/jp/influenza/novel_coronavirus.html)<br>・[財務省より新型コロナウイルス感染症緊急経済対策における税制上の措置（案）](https://www.mof.go.jp/tax_policy/keizaitaisaku.html)<br>・[国税庁より新型コロナウイルス感染症の発生に伴い納税が困難な方に対する猶予制度のご案内](https://www.nta.go.jp/taxes/shiraberu/shinkoku/kansensho/pdf/0020003-044_02.pdf)<br>・[【葬祭に従事する方へ】新型コロナウイルス感染症に関する情報](https://www.city.kodaira.tokyo.jp/kurashi/080/080312.html)<br>・[消費者庁より新型コロナウイルス感染症に関して消費者へのお願い](https://www.city.kodaira.tokyo.jp/kurashi/079/079872.html) |
 |  議会（閉会中）  |  **閉会中につき特になく、臨時議会がある場合は傍聴を控えてもらう**<br>・[5月6日まで市議会の傍聴をご遠慮ください](https://www.city.kodaira.tokyo.jp/gikai/081/081081.html)  |
-|  職員体制  |  **5/6（水）まで、バックアップ体制、時差通勤、子ども家庭部への応援派遣**<br>・[新型コロナウイルス感染症への市の対応（令和2年4月16日現在）](https://www.city.kodaira.tokyo.jp/kurashi/079/079987.html)<br>・5/6まで、各職場を2つのグループに分け、バックアップ体制を確保<br>・原則、業務を絞った上で出勤と在宅勤務の2交代制<br>・公共交通機関をラッシュ時間帯に利用する職員は時差出勤（4/12以降も継続？） |
+|  職員体制  |  **5/31（日）まで、バックアップ体制、子ども家庭部への応援派遣**<br>・[新型コロナウイルス感染症への市の対応（令和2年4月27日現在）](https://www.city.kodaira.tokyo.jp/kurashi/079/079987.html)<br>・5/31まで、各職場を2つのグループに分け、バックアップ体制を確保<br>・原則、業務を絞った上で出勤と在宅勤務の2交代制<br>・公共交通機関をラッシュ時間帯に利用する職員は時差出勤（これも5/31まで継続？） |
 
 ## 以下詳細（詳しくは[市ホームページ](https://www.city.kodaira.tokyo.jp/important/079/079879.html)をご覧ください）
 
@@ -105,7 +105,7 @@
 - [東京都福祉保健局「最新の報道発表」](https://www.fukushihoken.metro.tokyo.lg.jp/hodo/saishin/index.html)
 - [東京都防災「東京都新型コロナウイルス感染症対策本部報」](https://www.bousai.metro.tokyo.lg.jp/taisaku/saigai/1007261/index.html)
 - [都内の最新感染動向（東京都）](https://stopcovid19.metro.tokyo.lg.jp/)
-    - 小平市の陽性患者数累計：14名（4/23 19時45分）
+    - 小平市の陽性患者数累計：16名（4/27 19時30分）
 
 ### 1.3.2. 市内での発生情報 
 発生情報としては5名。
@@ -199,6 +199,14 @@
 ## 1.5. 市の対応
 
 ### 1.5.1. [新型コロナウイルス感染症への市の対応](https://www.city.kodaira.tokyo.jp/kurashi/079/079987.html)
+- 令和2年4月27日（月曜）
+    1. 公共施設等の取扱いについて
+        5/6まで閉鎖/閉館中の屋外施設を含む公共施設について、5/31まで閉鎖/閉館を延長
+    1. 市主催（共催）イベントの取扱いについて
+        5/6まで中止/延期している市共催（主催）イベントは5月31日まで中止/延期。この期間に準備を行わないと間に合わないイベントも延長/中止を検討。
+    1. 緊急事態宣言を受けた市の業務継続及び勤務体制について
+        5/6まで実施している公民館、図書館職員の子ども家庭部への応援派遣と、2交代制勤務等のバックアップ体制を5/31まで延長。
+    1. 5月7日、8日の小平市立学校の対応について
 - 令和2年4月16日（木曜）
     1. 緊急事態宣言を受けた市の業務継続及び勤務体制  
         4/17～5/6まで、各職場を2グループに分け、片方で感染者が発生してももう片方で業務継続できるバックアップ体制を確保する。原則、業務を絞った上で出勤・在宅勤務の2交代制。市民生活に直結する窓口業務は通常通り。4/25と5/2の土曜窓口は休止。
