@@ -1,5 +1,5 @@
 # 小平市の新型コロナウイルス感染症 対応状況まとめ
-令和2年5月2（土）01:00 時点
+令和2年5月5（火）01:00 時点
 
 |  対象  |  対応  |
 | ---- | ---- |
@@ -118,7 +118,7 @@
 - [東京都福祉保健局「最新の報道発表」](https://www.fukushihoken.metro.tokyo.lg.jp/hodo/saishin/index.html)
 - [東京都防災「東京都新型コロナウイルス感染症対策本部報」](https://www.bousai.metro.tokyo.lg.jp/taisaku/saigai/1007261/index.html)
 - [都内の最新感染動向（東京都）](https://stopcovid19.metro.tokyo.lg.jp/)
-    - 小平市の陽性患者数累計：16名（5/1 20時00分）
+    - 小平市の陽性患者数累計：16名（5/4 19時30分）
 
 ### 1.3.2. 市内での発生情報 
 発生情報としては5名。
@@ -457,7 +457,6 @@
 - [令和2年度市民税・都民税（住民税）の申告期限の延長について](https://www.city.kodaira.tokyo.jp/kurashi/080/080189.html)
 - [確定申告書の提出期限延長における市民税・都民税について](https://www.city.kodaira.tokyo.jp/kurashi/080/080146.html)
 - [新型コロナウイルス感染症の影響で市税の納付が困難な方へ](https://www.city.kodaira.tokyo.jp/kurashi/080/080568.html)
-- [新型コロナウイルス感染症の拡大防止のための三輪以上の軽自動車にかかる軽自動車税（種別割）の課税上の取扱いについて](https://www.city.kodaira.tokyo.jp/kurashi/080/080658.html)
 - [新型コロナウイルス感染症関係で国民年金保険料納付が困難な方へ](https://www.city.kodaira.tokyo.jp/kurashi/080/080665.html)
 - [新型コロナウィルス感染症で国民健康保険の諸手続きが困難な場合](https://www.city.kodaira.tokyo.jp/kurashi/080/080661.html)
 - [新型コロナウイルス感染症関係で年金受給書類の提出が困難な方へ](https://www.city.kodaira.tokyo.jp/kurashi/080/080666.html)
