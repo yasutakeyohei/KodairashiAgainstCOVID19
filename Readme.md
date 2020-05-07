@@ -1,10 +1,10 @@
 # 小平市の新型コロナウイルス感染症 対応状況まとめ
-令和2年5月5（火）01:00 時点
+令和2年5月8（金）01:00 時点
 
 |  対象  |  対応  |
 | ---- | ---- |
-| 特別定額給付金 | **オンライン申請は5/1から、郵送申請は5月下旬以降に開始**<br>・給付開始はオンライン申請者には5月下旬、郵送申請者には6月中旬以降<br>・オンライン申請はマイナンバーカードとICカード読み取り機（スマホ等）が必要<br>・小平市特別定額給付金専用ダイヤル（042-312-1095）<br>・[特別定額給付金について(令和2年5月1日)](https://www.city.kodaira.tokyo.jp/kurashi/081/081191.html)<br>・[総務省 特別定額給付金](https://www.soumu.go.jp/menu_seisaku/gyoumukanri_sonota/covid-19/kyufukin.html)<br>・[配偶者からの暴力を理由に避難している方の申出手続きについて](https://www.city.kodaira.tokyo.jp/kurashi/files/81491/081491/att_0000001.pdf)<br>・[産経新聞 【Ｑ＆Ａ】１０万円いつ、どうすればもらえる？　届いた申請書を返送](https://headlines.yahoo.co.jp/hl?a=20200420-00000564-san-bus_all)<br>・申請方法は二つ：（1）口座番号と本人確認書類の写しを郵送 （2）マイナンバーカードを使ったオンライン申請<br>・給付対象者＝給付金10万円の支給にカウントされる人：住民基本台帳に4/27時点で記録されている全員<br>・受給権者＝申請書が郵送される先：世帯主 |
-| 窓口業務等 | **市民生活直結の窓口業務は通常通り、土曜窓口は5/30まで休止、一部無料相談は当分の間休止**<br>・[新型コロナウイルス感染症への市の対応（令和2年5月1日現在）](https://www.city.kodaira.tokyo.jp/kurashi/079/079987.html)<br>・[市民課業務の休止等に関する情報（4/17（金）午前10時現在）](https://www.city.kodaira.tokyo.jp/kurashi/080/080083.html)<br>・[市役所窓口業務の縮小情報について（令和2年4月28日）](https://www.city.kodaira.tokyo.jp/kurashi/080/080083.html)<br>・[市役所などで行う相談【一部休止】](https://www.city.kodaira.tokyo.jp/kurashi/033/033219.html)<br>・[障害者支援課窓口へのご来庁をできるだけお控えください](https://www.city.kodaira.tokyo.jp/kurashi/081/081245.html) <br>・[12時～13時は、できる限り来庁をお控えください](https://www.city.kodaira.tokyo.jp/kurashi/081/081242.html) |
+| 特別定額給付金 | **オンライン申請は5/1から、郵送申請は5月下旬以降に開始、どちらも8月下旬まで**<br>・給付開始はオンライン申請者には5月下旬、郵送申請者には6月中旬以降<br>・オンライン申請はマイナンバーカードとICカード読み取り機（スマホ等）が必要<br>・小平市特別定額給付金専用ダイヤル（042-312-1095）<br>・総務省 特別定額給付金コールセンター（0120-260020）<br>・[特別定額給付金について](https://www.city.kodaira.tokyo.jp/kurashi/081/081191.html)<br>・[総務省 特別定額給付金](https://www.soumu.go.jp/menu_seisaku/gyoumukanri_sonota/covid-19/kyufukin.html)<br>・[配偶者からの暴力を理由に避難している方の申出手続きについて](https://www.city.kodaira.tokyo.jp/kurashi/files/81491/081491/att_0000001.pdf)<br>・申請方法は二つ：<br>（1）口座番号と本人確認書類の写しを郵送<br>（2）マイナンバーカードを使ったオンライン申請<br>・給付対象者＝給付金10万円の支給にカウントされる人：住民基本台帳に4/27時点で記録されている全員<br>・受給権者＝申請書が郵送される先：世帯主 |
+| 窓口業務等 | **市民生活直結の窓口業務は通常通り、土曜窓口は5/30まで休止、一部無料相談は当分の間休止**<br>・[電子証明書業務の不具合について](https://www.city.kodaira.tokyo.jp/important/081/081942.html)<br>・[新型コロナウイルス感染症への市の対応（令和2年5月1日現在）](https://www.city.kodaira.tokyo.jp/kurashi/079/079987.html)<br>・[市民課業務の休止等に関する情報（令和2年4月28日現在）](https://www.city.kodaira.tokyo.jp/kurashi/080/080083.html)<br>・[市役所窓口業務の縮小情報について（令和2年4月28日現在）](https://www.city.kodaira.tokyo.jp/kurashi/080/080083.html)<br>・[市役所などで行う相談【一部休止】](https://www.city.kodaira.tokyo.jp/kurashi/033/033219.html)<br>・[障害者支援課窓口へのご来庁をできるだけお控えください](https://www.city.kodaira.tokyo.jp/kurashi/081/081245.html) <br>・[12時～13時は、できる限り来庁をお控えください](https://www.city.kodaira.tokyo.jp/kurashi/081/081242.html) |
 |  ごみ・リサイクル業務  |  **ごみ収集はカレンダー通り、粗大ごみは受付縮小、ごみ抑制を要請**<br>・[コロナウイルス対策による資源とごみの収集時間の遅れについて](https://www.city.kodaira.tokyo.jp/kurashi/081/081104.html)<br>・[粗大ごみの≪電話・窓口≫申込み　【受付の縮小】](https://www.city.kodaira.tokyo.jp/kurashi/000/000314.html)<br>・[コロナウイルス感染拡大に伴う資源とごみの排出の抑制について](https://www.city.kodaira.tokyo.jp/kurashi/081/081198.html)  |
 |  屋外施設を含む公共施設  | **5/31（日）まで閉鎖 / 閉館**<br>・[市内公共施設などの休業情報](https://www.city.kodaira.tokyo.jp/kurashi/079/079890.html) |
 |  市主催（共催）イベント  |  **5/31（日）まで中止 / 延期**<br>・[イベント・行事・審議会の延期・中止などの情報](https://www.city.kodaira.tokyo.jp/kurashi/079/079884.html)  |
@@ -118,7 +118,7 @@
 - [東京都福祉保健局「最新の報道発表」](https://www.fukushihoken.metro.tokyo.lg.jp/hodo/saishin/index.html)
 - [東京都防災「東京都新型コロナウイルス感染症対策本部報」](https://www.bousai.metro.tokyo.lg.jp/taisaku/saigai/1007261/index.html)
 - [都内の最新感染動向（東京都）](https://stopcovid19.metro.tokyo.lg.jp/)
-    - 小平市の陽性患者数累計：16名（5/4 19時30分）
+    - 小平市の陽性患者数累計：16名（5/7 19時15分）
 
 ### 1.3.2. 市内での発生情報 
 発生情報としては5名。
@@ -350,7 +350,8 @@
 ### 1.7.3. [中央公園駐車場4月25日から5月6日まで閉鎖](https://www.city.kodaira.tokyo.jp/kurashi/081/081495.html)
 
 ### 1.7.4. [公園の利用について（新型コロナウイルス関連）](https://www.city.kodaira.tokyo.jp/kurashi/081/081387.html)
-単独での散策やジョギング程度の短時間の運動にとどめてください
+・生活の維持に必要な利用を除き、公園利用の自粛の継続をお願いします（5/7追記）  
+・単独での散策やジョギング程度の短時間の運動にとどめてください
 - 他人に対して、2m以上の距離を確保
 - グループで集まったり、飲食はご遠慮を
 - 公園利用の前後に手洗い、うがいを
@@ -467,18 +468,21 @@
 
 ### 1.12.1. [特別定額給付金について](https://www.city.kodaira.tokyo.jp/kurashi/081/081191.html)
 - [小平市のスケジュール](https://www.city.kodaira.tokyo.jp/kurashi/081/081191.html)
-    - 5月1日（金曜）から　オンライン申請の受付開始
+    - 5月1日（金曜）から　オンライン申請の受付開始（マイナンバーカードを所有している世帯主のみ）
     - 5月下旬以降　郵送申請用の申請書を送付
     - 5月下旬以降　オンライン申請した方へ給付開始予定
-    - 6月中旬以降　郵送申請した方へ給付開始予定 
+    - 6月中旬以降　郵送申請した方へ給付開始予定
+    - 8月下旬 オンライン申請及び郵送申請の申請期限
+- オンライン申請には、マイナンバーカード、暗証番号、ICカードリーダ又は対応したスマホが必要
+- 小平市特別定額給付金専用ダイヤル：042-312-1095（午前9時から午後5時（日曜日及び祝日を除く）
 - [総務省 特別定額給付金](https://www.soumu.go.jp/menu_seisaku/gyoumukanri_sonota/covid-19/kyufukin.html)
+- 総務省 特別定額給付金コールセンター：0120-260020（午前9時から午後6時30分（平日・休日を問わず））
 - [配偶者からの暴力を理由に避難している方の申出手続きについて](https://www.city.kodaira.tokyo.jp/kurashi/081/081491.html)
     - 配偶者からの暴力を理由に避難している方が受けられる措置
         - 世帯主でなくとも、同伴者の分を含めて、特別定額給付金（仮称）の申請を行い、給付金を受け取ることができます。
         - 手続きを行った方とその同伴者分の特別定額給付金（仮称）は、世帯主（配偶者など）から申請があった場合でも支給しません。
     - [配偶者からの暴力を理由に避難している方へ](https://www.city.kodaira.tokyo.jp/kurashi/files/81491/081491/att_0000001.pdf)
     - [特別定額給付金受給に係る配偶者からの暴力を理由に避難している旨の申出書](https://www.city.kodaira.tokyo.jp/kurashi/files/81491/081491/att_0000002.pdf)
-    - 特別定額給付金コールセンター：03-5638-5855（午前9時から午後6時30分（土日祝日を除く））
 - [生活に困窮している方の相談窓口　こだいら生活相談支援センター](https://www.city.kodaira.tokyo.jp/kurashi/046/046174.html)
 - [新型コロナウイルス感染症の影響による休業等で生活資金にお悩みの方へ](https://www.city.kodaira.tokyo.jp/kurashi/081/081396.html)
     - 緊急小口資金等の特例貸付
