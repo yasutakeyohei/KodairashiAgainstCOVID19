@@ -1,5 +1,5 @@
 # 小平市の新型コロナウイルス感染症 対応状況まとめ
-令和2年5月13（水）01:00 時点
+令和2年5月14（木）01:00 時点
 
 |  対象  |  対応  |
 | ---- | ---- |
@@ -11,7 +11,7 @@
 |  保育園等  |  **5/31（日）まで保育の提供縮小、利用自粛要請、保育料減免**<br>・[保育の提供の縮小について（利用自粛の要請）](https://www.city.kodaira.tokyo.jp/kurashi/081/081017.html)<br>・[保育園利用自粛要請延長に伴う保育料の減免措置について(5月7日から5月31日まで)](https://www.city.kodaira.tokyo.jp/kurashi/081/081604.html)<br>・[保育園利用自粛要請に伴う保育料の減免措置について(4月9日から5月6日まで)](https://www.city.kodaira.tokyo.jp/kurashi/080/080970.html)<br>・[一時預かり事業【5月31日（日曜）まで中止延長】](https://www.city.kodaira.tokyo.jp/kurashi/047/047850.html)  |
 |  学童クラブ  |  **5/31（日）まで春休みに準じて運営、利用自粛要請、学童クラブ費減免**<br>・[学童クラブ事業の縮小について（利用自粛の要請）](https://www.city.kodaira.tokyo.jp/kurashi/080/080052.html)<br>・[学童クラブ利用自粛に伴う学童クラブ費の減免について](https://www.city.kodaira.tokyo.jp/kurashi/081/081057.html)  |
 |  小平市立小中学校  |  **5/31（日）まで休み、週1回程度の相談日を設ける**<br>・[新型コロナウイルス感染症への市の対応（令和2年5月1日）](https://www.city.kodaira.tokyo.jp/kurashi/079/079987.html)<br>・[市立小学校、中学校の対応について](https://www.city.kodaira.tokyo.jp/kurashi/080/080054.html)<br>・5/31（日）まで臨時休業、週1日程度の相談日を設け、家庭学習課題の提示や回収、健康状態の確認・相談などを行う |
-|  支払い困難・生活支援  | **緊急小口資金等の特例貸付、市税は徴収猶予 / 換価猶予あり、年金は免除 / 猶予あり、下水道は最大4か月支払猶予あり**<br>・[新型コロナウイルス感染症の影響による休業等で生活資金にお悩みの方へ](https://www.city.kodaira.tokyo.jp/kurashi/081/081396.html)<br>・[生活に困窮している方の相談窓口　こだいら生活相談支援センター](https://www.city.kodaira.tokyo.jp/kurashi/046/046174.html)<br>・[新型コロナウイルス感染症の影響で市税の納付が困難な方へ](https://www.city.kodaira.tokyo.jp/kurashi/080/080568.html)<br>・[新型コロナウイルス感染症関係で国民年金保険料納付が困難な方へ](https://www.city.kodaira.tokyo.jp/kurashi/080/080665.html)<br>・[新型コロナウィルス感染症に伴う下水道使用料支払い猶予について](https://www.city.kodaira.tokyo.jp/kurashi/080/080984.html)<br>■ 以下2件はコロナウイルス感染症対策のページに記載なし<br>・[生活にお困りの方へ](https://www.city.kodaira.tokyo.jp/kurashi/020/020074.html)<br>・[離職で賃貸住宅の家賃の支払いがお困りの方](https://www.city.kodaira.tokyo.jp/kurashi/032/032276.html)<br>■ 以下は小平市社協から<br>・[緊急小口資金貸付のご案内パンフレット](https://www.tcsw.tvac.or.jp/activity/documents/201705kinkyuukoguchi.pdf)<br>■ 以下は主に国から<br>・[生活支援臨時給付金(仮称)について(令和2年4月14日)](https://www.city.kodaira.tokyo.jp/kurashi/081/081191.html)<br>・[（地方税）徴収猶予の特例制度（案）リーフレット](https://www.city.kodaira.tokyo.jp/kurashi/files/80568/080568/att_0000003.pdf) |
+|  支払い困難・生活支援  | **緊急小口資金等の特例貸付、市税は徴収猶予 / 換価猶予あり、年金は免除 / 猶予あり、下水道は最大4か月支払猶予あり**<br>・[新型コロナウイルス感染症の影響による休業等で生活資金にお悩みの方へ](https://www.city.kodaira.tokyo.jp/kurashi/081/081396.html)<br>・[生活に困窮している方の相談窓口　こだいら生活相談支援センター](https://www.city.kodaira.tokyo.jp/kurashi/046/046174.html)<br>・[新型コロナウイルス感染症の影響で市税の納付が困難な方へ](https://www.city.kodaira.tokyo.jp/kurashi/080/080568.html)<br>・[新型コロナウイルス感染症関係で国民年金保険料納付が困難な方へ](https://www.city.kodaira.tokyo.jp/kurashi/080/080665.html)<br>・[新型コロナウィルス感染症に伴う下水道使用料支払い猶予について](https://www.city.kodaira.tokyo.jp/kurashi/080/080984.html)<br>・[離職等で賃貸住宅の家賃の支払いがお困りの方](https://www.city.kodaira.tokyo.jp/kurashi/032/032276.html)<br>・[住居確保給付金](https://www.city.kodaira.tokyo.jp/kurashi/082/082087.html)<br>■ 以下1件はコロナウイルス感染症対策のページに記載なし<br>・[生活にお困りの方へ](https://www.city.kodaira.tokyo.jp/kurashi/020/020074.html)<br><br>■ 以下は小平市社協から<br>・[緊急小口資金貸付のご案内パンフレット](https://www.tcsw.tvac.or.jp/activity/documents/201705kinkyuukoguchi.pdf)<br>■ 以下は主に国から<br>・[生活支援臨時給付金(仮称)について(令和2年4月14日)](https://www.city.kodaira.tokyo.jp/kurashi/081/081191.html)<br>・[（地方税）徴収猶予の特例制度（案）リーフレット](https://www.city.kodaira.tokyo.jp/kurashi/files/80568/080568/att_0000003.pdf) |
 |  事業者の資金繰り支援・相談・情報  | **小平市としては緊急運転資金制度（通常運用？）での対応か**<br>・[小平市　小口事業資金・小口零細企業資金融資あっせん制度（緊急運転資金）](https://www.city.kodaira.tokyo.jp/kurashi/080/080545.html)<br>・[小平市における新型コロナウイルス感染症に係る介護事業所の臨時的な取扱いについて](https://www.city.kodaira.tokyo.jp/kurashi/081/081004.html)<br>■ 以下は主に国および都から<br>・[社会保険手続きに係る事業者向け新型コロナウイルス関連情報](https://www.city.kodaira.tokyo.jp/kurashi/081/081600.html)<br>・[経済産業省　持続化給付金（速報版）](https://www.city.kodaira.tokyo.jp/important/079/079879.html)<br>・[東京都産業労働局　感染拡大防止協力金](https://www.city.kodaira.tokyo.jp/kurashi/081/081084.html)<br>・[緊急事態宣言等を踏まえた障害福祉サービス等事業所における対応](https://www.city.kodaira.tokyo.jp/kurashi/081/081240.html)<br>・[市が発注した公共工事等　新型コロナウイルス感染症の罹患及び感染拡大防止に向けた対応](https://www.city.kodaira.tokyo.jp/kurashi/080/080141.html)<br>・[経済産業省　新型コロナウイルス感染症で影響を受ける事業者の皆様へ（支援パンフレット）](https://www.city.kodaira.tokyo.jp/kurashi/080/080472.html)<br>・[東京都産業労働局　新型コロナウイルス感染症に対応した企業の皆様、はたらく皆様への支援策](https://www.city.kodaira.tokyo.jp/kurashi/080/080509.html) <br>・[東京都緊急事態措置相談センター](https://www.city.kodaira.tokyo.jp/kurashi/079/079554.html#tokuso)<br>・[新型コロナウイルス感染症への対応について（介護事業者向け）令和2年4月](https://www.city.kodaira.tokyo.jp/kurashi/080/080994.html)|
 |  申請・申告  | **法人市民税申告・納付、住民税申告、国保諸手続き、年金受給手続き、在留外国人の更新許可申請等の延長対応**<br>・[新型コロナウイルス感染症の影響により、法人市民税の期限内申告等に困難が生じた場合の取扱いについて](https://www.city.kodaira.tokyo.jp/kurashi/081/081192.html)<br>・[令和2年度市民税・都民税（住民税）の申告期限の延長について](https://www.city.kodaira.tokyo.jp/kurashi/080/080189.html)<br>・[新型コロナウイルス感染症の拡大防止のための三輪以上の軽自動車にかかる軽自動車税（種別割）の課税上の取扱いについて](https://www.city.kodaira.tokyo.jp/kurashi/080/080658.html)<br>・[新型コロナウィルス感染症で国民健康保険の諸手続きが困難な場合](https://www.city.kodaira.tokyo.jp/kurashi/080/080661.html)<br>・[新型コロナウイルス感染症関係で年金受給書類の提出が困難な方へ](https://www.city.kodaira.tokyo.jp/kurashi/080/080666.html)<br>・[外国人住民の方の手続き](https://www.city.kodaira.tokyo.jp/kurashi/026/026272.html) |
 |  その他・国の対応  | **令和3年1/31まで納期限の国税（所得税、法⼈税、消費税等）の納税猶予、注意喚起等**<br>・[内閣官房より新型コロナウイルス感染症対策](https://www.cas.go.jp/jp/influenza/novel_coronavirus.html)<br>・[財務省より新型コロナウイルス感染症緊急経済対策における税制上の措置（案）](https://www.mof.go.jp/tax_policy/keizaitaisaku.html)<br>・[国税庁より新型コロナウイルス感染症の発生に伴い納税が困難な方に対する猶予制度のご案内](https://www.nta.go.jp/taxes/shiraberu/shinkoku/kansensho/pdf/0020003-044_02.pdf)<br>・[【葬祭に従事する方へ】新型コロナウイルス感染症に関する情報](https://www.city.kodaira.tokyo.jp/kurashi/080/080312.html)<br>・[消費者庁より新型コロナウイルス感染症に関して消費者へのお願い](https://www.city.kodaira.tokyo.jp/kurashi/079/079872.html) |
@@ -64,7 +64,9 @@
                 - [1.3.1.4.3. 添付ファイル](#13143-%E6%B7%BB%E4%BB%98%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB)
         - [1.3.2. 生活相談など](#132-%E7%94%9F%E6%B4%BB%E7%9B%B8%E8%AB%87%E3%81%AA%E3%81%A9)
             - [1.3.2.1. 生活に困窮している方の相談窓口　こだいら生活相談支援センター](#1321-%E7%94%9F%E6%B4%BB%E3%81%AB%E5%9B%B0%E7%AA%AE%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E6%96%B9%E3%81%AE%E7%9B%B8%E8%AB%87%E7%AA%93%E5%8F%A3%E3%80%80%E3%81%93%E3%81%A0%E3%81%84%E3%82%89%E7%94%9F%E6%B4%BB%E7%9B%B8%E8%AB%87%E6%94%AF%E6%8F%B4%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC)
-            - [1.3.2.2. 新型コロナウイルス感染症の影響による休業等で生活資金にお悩みの方へ](#1322-%E6%96%B0%E5%9E%8B%E3%82%B3%E3%83%AD%E3%83%8A%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E6%84%9F%E6%9F%93%E7%97%87%E3%81%AE%E5%BD%B1%E9%9F%BF%E3%81%AB%E3%82%88%E3%82%8B%E4%BC%91%E6%A5%AD%E7%AD%89%E3%81%A7%E7%94%9F%E6%B4%BB%E8%B3%87%E9%87%91%E3%81%AB%E3%81%8A%E6%82%A9%E3%81%BF%E3%81%AE%E6%96%B9%E3%81%B8)
+            - [1.3.2.2. 離職等で賃貸住宅の家賃の支払いがお困りの方](#1322-%E9%9B%A2%E8%81%B7%E7%AD%89%E3%81%A7%E8%B3%83%E8%B2%B8%E4%BD%8F%E5%AE%85%E3%81%AE%E5%AE%B6%E8%B3%83%E3%81%AE%E6%94%AF%E6%89%95%E3%81%84%E3%81%8C%E3%81%8A%E5%9B%B0%E3%82%8A%E3%81%AE%E6%96%B9)
+            - [1.3.2.3. 住居確保給付金](#1323-%E4%BD%8F%E5%B1%85%E7%A2%BA%E4%BF%9D%E7%B5%A6%E4%BB%98%E9%87%91)
+            - [1.3.2.4. 新型コロナウイルス感染症の影響による休業等で生活資金にお悩みの方へ](#1324-%E6%96%B0%E5%9E%8B%E3%82%B3%E3%83%AD%E3%83%8A%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E6%84%9F%E6%9F%93%E7%97%87%E3%81%AE%E5%BD%B1%E9%9F%BF%E3%81%AB%E3%82%88%E3%82%8B%E4%BC%91%E6%A5%AD%E7%AD%89%E3%81%A7%E7%94%9F%E6%B4%BB%E8%B3%87%E9%87%91%E3%81%AB%E3%81%8A%E6%82%A9%E3%81%BF%E3%81%AE%E6%96%B9%E3%81%B8)
         - [1.3.3. 申請、申告、手続きなど](#133-%E7%94%B3%E8%AB%8B%E7%94%B3%E5%91%8A%E6%89%8B%E7%B6%9A%E3%81%8D%E3%81%AA%E3%81%A9)
         - [1.3.4. 事業者向けの情報、労働に関する相談](#134-%E4%BA%8B%E6%A5%AD%E8%80%85%E5%90%91%E3%81%91%E3%81%AE%E6%83%85%E5%A0%B1%E5%8A%B4%E5%83%8D%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E7%9B%B8%E8%AB%87)
     - [1.4. 市役所窓口・くらしの情報](#14-%E5%B8%82%E5%BD%B9%E6%89%80%E7%AA%93%E5%8F%A3%E3%83%BB%E3%81%8F%E3%82%89%E3%81%97%E3%81%AE%E6%83%85%E5%A0%B1)
@@ -199,7 +201,7 @@
 - [東京都福祉保健局「最新の報道発表」](https://www.fukushihoken.metro.tokyo.lg.jp/hodo/saishin/index.html)
 - [東京都防災「東京都新型コロナウイルス感染症対策本部報」](https://www.bousai.metro.tokyo.lg.jp/taisaku/saigai/1007261/index.html)
 - [都内の最新感染動向（東京都）](https://stopcovid19.metro.tokyo.lg.jp/)
-    - 小平市の陽性患者数累計：16名（5/12 21時45分）
+    - 小平市の陽性患者数累計：16名（5/13 20時00分）
 
 #### 1.2.3.2. 市内での発生情報 
 発生情報としては6名。
@@ -305,7 +307,14 @@ SARS-CoV, MERS-CoV以外は感染しても通常の風邪などの重度でな�
 
 #### 1.3.2.1. [生活に困窮している方の相談窓口　こだいら生活相談支援センター](https://www.city.kodaira.tokyo.jp/kurashi/046/046174.html)
 
-#### 1.3.2.2. [新型コロナウイルス感染症の影響による休業等で生活資金にお悩みの方へ](https://www.city.kodaira.tokyo.jp/kurashi/081/081396.html)
+#### 1.3.2.2. [離職等で賃貸住宅の家賃の支払いがお困りの方](https://www.city.kodaira.tokyo.jp/kurashi/032/032276.html)
+
+#### 1.3.2.3. [住居確保給付金](https://www.city.kodaira.tokyo.jp/kurashi/082/082087.html)
+- こだいら生活相談支援センター
+    - 離職などにより住居を失った方、または失うおそれのある方に、原則3か月、最大9か月の家賃相当額を支給
+    - 要件は離職や廃業の日から2年以内、個人の責めに帰すべき理由、都合によらないで収入が減少し、就労状況が離職または廃業の場合と同等程度の状況にある小平市在住の方。求職活動等が必要。
+
+#### 1.3.2.4. [新型コロナウイルス感染症の影響による休業等で生活資金にお悩みの方へ](https://www.city.kodaira.tokyo.jp/kurashi/081/081396.html)
 - 個人向け緊急小口資金・総合支援資金相談コールセンター（0120-46-1999, 9:00～21:00（土日祝日含む） ）
 - 受付窓口：小平市社会福祉協議会（予約制）
 
