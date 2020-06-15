@@ -1,5 +1,5 @@
-# 小平市の新型コロナウイルス感染症 対応状況まとめ
-令和2年6月13日（土）01:00 時点
+小平市の新型コロナウイルス感染症 対応状況まとめ
+令和2年6月16日（火）01:00 時点
 
 |  対象  |  対応  |
 | ---- | ---- |
@@ -19,7 +19,7 @@
 |  議会（閉会中）  |  **市議会傍聴をご遠慮ください、会議日程一部変更**<br>・[6月定例会における市議会の対応と傍聴に関するお願い（新型コロナウイルス感染症拡大防止）](https://www.city.kodaira.tokyo.jp/gikai/082/082463.html)<br>・[新型コロナウイルス感染症拡大防止に伴う会議日程の変更等について](https://www.city.kodaira.tokyo.jp/gikai/081/081984.html)  |
 |  職員体制  |  **6/1（月）から交代制勤務等を終了**<br>・[新型コロナウイルス感染症への市の対応（令和2年6月1日現在）](https://www.city.kodaira.tokyo.jp/kurashi/079/079987.html) |
 
-## 以下詳細（詳しくは[市ホームページ](https://www.city.kodaira.tokyo.jp/important/079/079879.html)をご覧ください）
+以下詳細（詳しくは[市ホームページ](https://www.city.kodaira.tokyo.jp/important/079/079879.html)をご覧ください）
 
 <!-- TOC depthfrom:1 depthto:6 orderedlist:true updateonsave:false -->
 
