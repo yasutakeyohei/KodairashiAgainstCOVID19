@@ -1,5 +1,5 @@
 # 小平市の新型コロナウイルス感染症 対応状況まとめ
-令和2年6月29日（月）01:00 時点
+令和2年7月1日（水）01:00 時点
 
 |  対象  |  対応  |
 | ---- | ---- |
@@ -10,7 +10,7 @@
 |  屋外施設を含む公共施設  | **6/1より段階的に再開**<br>・[市内公共施設などの再開情報](https://www.city.kodaira.tokyo.jp/kurashi/079/079890.html)<br>・[市内公共施設などの休業情報](https://www.city.kodaira.tokyo.jp/kurashi/079/079890.html) |
 |  市主催（共催）イベント  |  **5/31以降も中止 / 延期あり**<br>・[イベント・行事・審議会の延期・中止などの情報](https://www.city.kodaira.tokyo.jp/kurashi/079/079884.html)  |
 |  保育園等  |  **5/31（日）で保育施設等の利用自粛期間を終了、一時預かり6/1より再開、保育料減免**<br>・[緊急事態宣言の解除を受けた保育施設等の対応について](https://www.city.kodaira.tokyo.jp/kurashi/082/082461.html)<br>・[保育園利用自粛要請延長に伴う保育料の減免措置について(5月7日から5月31日まで)](https://www.city.kodaira.tokyo.jp/kurashi/081/081604.html)<br>・[保育園利用自粛要請に伴う保育料の減免措置について(4月9日から5月6日まで)](https://www.city.kodaira.tokyo.jp/kurashi/080/080970.html)<br>・[一時預かり事業【6月1日（月曜）再開】](https://www.city.kodaira.tokyo.jp/kurashi/047/047850.html)  |
-|  学童クラブ  |  **6/1（月）より段階的に通常化へ、学童クラブ費減免**<br>・[学童クラブの運営について](https://www.city.kodaira.tokyo.jp/kurashi/080/080052.html)<br>・[学童クラブ利用自粛に伴う学童クラブ費の減免について](https://www.city.kodaira.tokyo.jp/kurashi/081/081057.html)  |
+|  学童クラブ  |  **6/15以降通常保育、学童クラブ費減免**<br>・[学童クラブの運営について](https://www.city.kodaira.tokyo.jp/kurashi/080/080052.html)<br>・[学童クラブ利用自粛に伴う学童クラブ費の減免について](https://www.city.kodaira.tokyo.jp/kurashi/081/081057.html)  |
 |  小平市立小中学校  |  **6/1（月）より段階的に再開**<br>・[緊急事態宣言の解除に伴う市立小・中学校の対応について（令和2年5月26日更新）](https://www.city.kodaira.tokyo.jp/kurashi/080/080054.html)<br>・[小平市立学校保護者の皆様へ（5月26日）](https://www.city.kodaira.tokyo.jp/kurashi/files/80054/080054/att_0000003.pdf)<br>・[小平市立学校版感染症予防ガイドライン（令和2年6月1日版）](https://www.city.kodaira.tokyo.jp/kurashi/files/80054/080054/att_0000004.pdf) |
 |  支払い困難・生活支援  | **緊急小口資金等の特例貸付、市税は徴収猶予 / 換価猶予あり、年金は免除 / 猶予あり、下水道は最大4か月支払猶予あり**<br>・[新型コロナウイルス感染症の影響による国民健康保険税の減免について](https://www.city.kodaira.tokyo.jp/kurashi/081/081994.html)<br>・[新型コロナウイルス感染症の影響による介護保険料の減免について](https://www.city.kodaira.tokyo.jp/kurashi/082/082374.html)<br>・[新型コロナウイルス感染症の影響による休業等で生活資金にお悩みの方へ](https://www.city.kodaira.tokyo.jp/kurashi/081/081396.html)<br>・[生活に困窮している方の相談窓口　こだいら生活相談支援センター](https://www.city.kodaira.tokyo.jp/kurashi/046/046174.html)<br>・[新型コロナウイルス感染症の影響で市税の納付が困難な方へ](https://www.city.kodaira.tokyo.jp/kurashi/080/080568.html)<br>・[新型コロナウイルス感染症関係で国民年金保険料納付が困難な方へ](https://www.city.kodaira.tokyo.jp/kurashi/080/080665.html)<br>・[新型コロナウィルス感染症に伴う下水道使用料支払い猶予について](https://www.city.kodaira.tokyo.jp/kurashi/080/080984.html)<br>・[離職等で賃貸住宅の家賃の支払いがお困りの方](https://www.city.kodaira.tokyo.jp/kurashi/032/032276.html)<br>■ 以下1件はコロナウイルス感染症対策のページに記載なし<br>・[生活にお困りの方へ](https://www.city.kodaira.tokyo.jp/kurashi/020/020074.html)<br>■ 以下は小平市社協から<br>・[緊急小口資金貸付のご案内パンフレット](https://www.tcsw.tvac.or.jp/activity/documents/201705kinkyuukoguchi.pdf)<br>■ 以下は主に国から<br>・[特別定額給付金について](https://www.city.kodaira.tokyo.jp/kurashi/081/081191.html) |
 |  事業者の資金繰り支援・相談・情報  | **小平市としては中小企業等家賃支援給付金と緊急運転資金制度（通常運用？）とでの対応か**<br>・[小平市中小企業等家賃支援給付金](https://www.city.kodaira.tokyo.jp/kurashi/082/082364.html)<br>・[小平市　小口事業資金・小口零細企業資金融資あっせん制度（緊急運転資金）](https://www.city.kodaira.tokyo.jp/kurashi/080/080545.html)<br>■ 以下は主に国および都から<br>・[経済産業省　小規模事業者持続化補助金（一般型・コロナ特別対応型）の公募開始](https://www.city.kodaira.tokyo.jp/kurashi/082/082176.html)<br>・[経済産業省　持続化給付金（速報版）](https://www.city.kodaira.tokyo.jp/important/079/079879.html)<br>・[社会保険手続きに係る事業者向け新型コロナウイルス関連情報](https://www.city.kodaira.tokyo.jp/kurashi/081/081600.html)<br>・[東京都産業労働局　感染拡大防止協力金](https://www.city.kodaira.tokyo.jp/kurashi/081/081084.html)<br>・[東京都産業労働局　感染拡大防止協力金(第2回)](https://www.city.kodaira.tokyo.jp/kurashi/082/082485.html)<br>・[緊急事態宣言等を踏まえた障害福祉サービス等事業所における対応](https://www.city.kodaira.tokyo.jp/kurashi/081/081240.html)<br>・[市が発注した公共工事等　新型コロナウイルス感染症の罹患及び感染拡大防止に向けた対応](https://www.city.kodaira.tokyo.jp/kurashi/080/080141.html)<br>・[経済産業省　新型コロナウイルス感染症で影響を受ける事業者の皆様へ（支援パンフレット）](https://www.city.kodaira.tokyo.jp/kurashi/080/080472.html)<br>・[東京都産業労働局　新型コロナウイルス感染症に対応した企業の皆様、はたらく皆様への支援策](https://www.city.kodaira.tokyo.jp/kurashi/080/080509.html) <br>・[東京都緊急事態措置相談センター](https://www.city.kodaira.tokyo.jp/kurashi/079/079554.html#tokuso)<br>・[新型コロナウイルス感染症への対応について（介護事業者向け）令和2年4月](https://www.city.kodaira.tokyo.jp/kurashi/080/080994.html)|
@@ -179,6 +179,7 @@
 # 1. [新型コロナウイルス感染症に関連する情報](https://www.city.kodaira.tokyo.jp/important/079/079879.html)
 
 ## 1.1. [市長メッセージ](https://www.city.kodaira.tokyo.jp/kurashi/019/019741.html)
+- 6/30（火）
 - 6/19（金）
 - 6/2（火）
 - 5/26（火）
@@ -258,7 +259,7 @@
 - [東京都福祉保健局「最新の報道発表」](https://www.fukushihoken.metro.tokyo.lg.jp/hodo/saishin/index.html)
 - [東京都防災「東京都新型コロナウイルス感染症対策本部報」](https://www.bousai.metro.tokyo.lg.jp/taisaku/saigai/1007261/index.html)
 - [都内の最新感染動向（東京都）](https://stopcovid19.metro.tokyo.lg.jp/)
-    - 小平市の陽性患者数累計：27名（6/29 18時00分）
+    - 小平市の陽性患者数累計：27名（6/30 18時00分）
 
 #### 1.3.3.2. 私立認可保育園に勤務する職員の新型コロナウイルス感染について
 まなびの森保育園新小平に勤務する職員1名が感染、当該施設を5/27まで休園に。
@@ -1220,13 +1221,27 @@ SARS-CoV, MERS-CoV以外は感染しても通常の風邪などの重度でな�
     全児童の一斉登校や給食が開始となることから、通常保育を実施
     - 利用上の注意  
     基本的な感染防止策の徹底等についてご理解・ご協力を。
-    - 6月休会について  
-    学童クラブの6月の休会は、6月8日（月曜）までに、電話やメールで受付。6月休会の場合、6月分の学童クラブ費は免除。
+    - 7月・8月休会の手続きや求職中の入会期間について  
+        学童クラブの休会は、通常は休会する月の前月末までに手続きが必要ですが、7月、8月休会については、以下の期日まで、お電話やメールで受付いたします。
+        - 7月休会　…　7月7日（火曜）まで
+        - 8月休会　…　8月6日（木曜）まで
+
+        休会をされますと、その月の学童クラブ費は免除となります。
+        
+        上記期日までに休会の手続きをしない場合、7月、8月に学童クラブを利用されなかったとしても学童クラブ費が発生しますのでご注意ください。
+        
+        また通常は、2ヶ月以上連続して休会すると退会となりますが、今年度に限り、8月休会までは、連続で休会しても退会にはなりません。
+
     - 求職中の入会期間について  
     求職中の要件で入会できる期間については、通常、1か月間のみですが、4月に求職要件で入会されていた方について、入会期間を6月末まで延長。緊急事態宣言期間中に失職を余儀なくされ、現在、求職中の方の入会期間も同様とする。
     - 学童クラブ費の免除について  
     下記参照
 - [学童クラブ利用自粛に伴う学童クラブ費の減免について](https://www.city.kodaira.tokyo.jp/kurashi/081/081057.html)
+
+    - 夏休み期間における学童クラブの利用について
+        夏休み期間に学童クラブを利用される場合は、学童クラブに「夏季開設期間中（8月1日～8月23日）の学童クラブ出席状況調査」を7月10日（金曜）までに提出してください。
+    - その他
+        学童クラブにおける密集・密接を回避する観点から、可能な場合はご家庭での保育や、お仕事が早く終わった際の早めのお迎えなどについて、引き続きご協力をお願いいたします。
 
 ### 1.7.3. 保育園など
 5月31日をもって保育施設等の利用自粛期間を終了。
