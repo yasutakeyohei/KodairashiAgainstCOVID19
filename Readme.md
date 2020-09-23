@@ -1,5 +1,5 @@
 # 小平市の新型コロナウイルス感染症 対応状況まとめ
-令和2年9月19日（土）01:00 時点
+令和2年9月24日（木）01:00 時点
 
 |  対象  |  対応  |
 | ---- | ---- |
@@ -323,7 +323,7 @@
 - [東京都福祉保健局「最新の報道発表」](https://www.fukushihoken.metro.tokyo.lg.jp/hodo/saishin/index.html)
 - [東京都防災「東京都新型コロナウイルス感染症対策本部報」](https://www.bousai.metro.tokyo.lg.jp/taisaku/saigai/1007261/index.html)
 - [都内の最新感染動向（東京都）](https://stopcovid19.metro.tokyo.lg.jp/)
-    - 小平市の陽性患者数累計：136名（9/18 19時30分）
+    - 小平市の陽性患者数累計：140名（9/23 19時30分）
 
 #### 1.4.3.2. [市立中学校に通う生徒の新型コロナウイルス感染について](https://www.city.kodaira.tokyo.jp/kurashi/084/084091.html)
 小平市立中学校の生徒が新型コロナウイルス感染症に感染。所管保健所の調査により、当該市立中学校に濃厚接触者が確認され、今後PCR検査を受ける予定。当該市立中学校は8月1日(土曜)以降夏季休業期間だが、部活動等の活動は8月1日(土曜)及び2日(日曜)について中止。校内関係箇所の消毒はすでに実施済。
@@ -340,17 +340,8 @@
 #### 1.4.3.5. [私立認可保育園に勤務する職員の新型コロナウイルス感染について](https://www.city.kodaira.tokyo.jp/kurashi/081/081515.html)
 まなびの森保育園新小平に勤務する職員1名が感染、当該施設を5/27まで休園に。
 
-#### 1.4.3.6. 市内事業所での発生情報（市が事業所等から得た情報） 
-市内事業所での発生情報としては9名。
-- [ドコモショップ花小金井店 （派遣）社員 1名](https://www.conexio.co.jp/news/2020/20200715.html)
-- [国立精神・神経医療研究センター病院 入院患者 1名](https://www.ncnp.go.jp/hospital/news/2020/747.html)
-- [国立精神・神経医療研究センター病院 職員 1名](https://www.ncnp.go.jp/hospital/news/2020/747.html)
-- [小平警察署 職員 1名](https://www.keishicho.metro.tokyo.jp/smph/oshirase/kodaira200422.html)
-- [西友東大和店 従業員1名](https://www.seiyu.co.jp/serious_info/pdf/200417.pdf#search=%27%E8%A5%BF%E5%8F%8B+%E6%9D%B1%E5%A4%A7%E5%92%8C%27)
-- [公立昭和病院看護師1名](http://www.kouritu-showa.jp/news/detail.php?id=4045)
-- [国立精神・神経医療研究センター職員1名](https://www.ncnp.go.jp/hospital/)
-- [星野珈琲店花小金井店 従業員1名](https://www.n-rs.co.jp/images/pdf/200409news.pdf#search=%27%E6%97%A5%E6%9C%AC%E3%83%AC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0+%E3%82%B3%E3%83%AD%E3%83%8A%27)
-- [鈴木二郵便局窓口担当1名](https://www.japanpost.jp/information/2020/20200408151401.html)
+#### 1.4.3.6. [市内事業所での発生情報（市が事業所等から得た情報）](https://www.city.kodaira.tokyo.jp/kurashi/084/084843.html)
+
 
 ### 1.4.4. [職員の新型コロナウイルス感染について(9月9日）](https://www.city.kodaira.tokyo.jp/kurashi/084/084838.html)
 　9月4日（金曜）まで症状なく勤務  
